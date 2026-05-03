@@ -1,8 +1,8 @@
-# 3D Portfolio Website
+# Yashas Mahesh Portfolio
 
-This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
+This repository contains Yashas Mahesh's personal 3D software engineering portfolio, built with React, TypeScript, Three.js, React Three Fiber, and GSAP. The site content is based on Yashas's resume, including experience, skills, education, and academic projects.
 
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+Live site: portfolio URL pending.
 
 ![Portfolio Preview](public/images/preview1.png)
 
